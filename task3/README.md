@@ -1,4 +1,4 @@
-###Results on all the test sets
+### Results on all the test sets
 
 
 ![image](https://github.com/omarelsayeed/WideBot_Tasks/assets/64399795/e21b9b05-7560-4e80-9ae5-7d350daaa6df)
@@ -9,7 +9,7 @@
 ![image](https://github.com/omarelsayeed/WideBot_Tasks/assets/64399795/3744a837-a475-48a4-bcb9-7a88eca61a4f)
 
 
-## Training :
+### Training :
 
 1- AdamW optimizer , 0.01 Wd
 2- Simple AraBert as a base model
